@@ -16,6 +16,17 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "merchant-lib": [
+        "dist/merchant-lib"
+      ],
+      "partner-lib": [
+        "dist/partner-lib"
+      ],
+      "shared": [
+        "dist/shared"
+      ]
+    },
     "target": "ES2022",
     "module": "ES2022",
     "useDefineForClassFields": false,
