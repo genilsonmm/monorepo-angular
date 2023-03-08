@@ -1,6 +1,3 @@
-# Obs
-Aqui é na mão, mas o Nx aparentemente é melhor
-
 # Create a workspace
 ```
 ng new <repo-name> --create-application false
